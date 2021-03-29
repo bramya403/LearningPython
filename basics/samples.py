@@ -15,3 +15,6 @@ b = [2, 3, 4]
 
 a = a + b
 print(a)
+
+for x in a:
+    print(x)
